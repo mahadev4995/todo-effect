@@ -1,5 +1,10 @@
 # To do web app
 
+##Tech stack
+1. React + JS
+2. Redux tool kit
+3. Tailwind css
+
 ## Description
 The project is part of the interview assignment. 
 Core Features:
