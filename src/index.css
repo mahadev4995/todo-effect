@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#1f1e1e] text-black overflow-hidden;
+}
+
+h1 {
+  @apply text-center text-4xl font-bold text-gray-100;
+}
